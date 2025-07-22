@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "id": "seriesmax_tt0944947",
+        "type": "series",
+        "name": "Game of Thrones",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/d/d8/Game_of_Thrones_title_card.jpg",
+        "description": "Serie \u00e9pica de fantas\u00eda medieval basada en los libros de George R. R. Martin.",
+        "videos": [
+            {
+                "id": "seriesmax_tt0944947__S01E01",
+                "title": "Winter Is Coming",
+                "season": 1,
+                "episode": 1
+            },
+            {
+                "id": "seriesmax_tt0944947__S01E02",
+                "title": "The Kingsroad",
+                "season": 1,
+                "episode": 2
+            }
+        ]
+    }
+}

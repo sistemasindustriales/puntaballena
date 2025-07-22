@@ -1,0 +1,24 @@
+{
+    "id": "org.series.max",
+    "version": "1.0.0",
+    "name": "Series Max",
+    "description": "Addon de ejemplo con series personalizadas.",
+    "resources": [
+        "catalog",
+        "meta",
+        "stream"
+    ],
+    "types": [
+        "series"
+    ],
+    "catalogs": [
+        {
+            "type": "series",
+            "id": "series-max",
+            "name": "Series Max"
+        }
+    ],
+    "idPrefixes": [
+        "seriesmax"
+    ]
+}
