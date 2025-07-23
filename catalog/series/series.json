@@ -1,0 +1,20 @@
+{
+  "metas": [
+    {
+      "id": "tt1234567",
+      "type": "series",
+      "name": "Vacaciones en NY1",
+      "poster": "https://media.themoviedb.org/t/p/w220_and_h330_face/c32TsWLES7kL1uy6fF03V67AIYX.jpg",
+      "description": "Una familia viaja a Nueva York y vive una serie de aventuras.1"
+    },
+    {
+      "id": "stranger",
+      "type": "series",
+      "name": "Stranger Things1",
+      "poster": "https://media.themoviedb.org/t/p/w220_and_h330_face/oMkVNujGNmGmfNeHwxcUF6mncQJ.jpg",
+      "description": "desc.1"
+    }
+
+
+  ]
+}

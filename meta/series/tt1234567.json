@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "tt1234567",
+    "type": "series",
+    "name": "Vacaciones en NY2",
+    "poster": "https://media.themoviedb.org/t/p/w220_and_h330_face/c32TsWLES7kL1uy6fF03V67AIYX.jpg",
+    "description": "Una familia viaja a Nueva York y vive una serie de aventuras.2",
+    "videos": [
+      {
+        "id": "tt1234567_s01e01",
+        "season": 1,
+        "episode": 1,
+        "title": "Llegada a la Gran Manzana2",
+        "overview": "La familia llega a NY y enfrenta el caos del aeropuerto.2"
+      },
+      {
+        "id": "tt1234567_s01e02",
+        "season": 1,
+        "episode": 2,
+        "title": "Paseo por Central Park2",
+        "overview": "Un día lleno de sorpresas y encuentros extraños en Central Park.2"
+      }
+    ]
+  }
+}
